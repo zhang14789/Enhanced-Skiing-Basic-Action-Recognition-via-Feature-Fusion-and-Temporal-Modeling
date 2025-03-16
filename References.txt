@@ -1,0 +1,23 @@
+1.	 Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. "ImageNet classification with deep convolutional neural networks." Communications of the ACM 60.6 (2017): 84-90.
+2.	 Simonyan, Karen, and Andrew Zisserman. "Two-stream convolutional networks for action recognition in videos." Advances in neural information processing systems 27 (2014).
+3.	Wang, Limin, et al. "Temporal segment networks for action recognition in videos." IEEE transactions on pattern analysis and machine intelligence 41.11 (2018): 2740-2755.
+4.	Van Houdt, Greg, Carlos Mosquera, and Gonzalo Nápoles. "A review on the long short-term memory model." Artificial Intelligence Review 53.8 (2020): 5929-5955.
+5.	Soomro, Khurram, Amir Roshan Zamir, and Mubarak Shah. "UCF101: A dataset of 101 human actions classes from videos in the wild." arxiv preprint arxiv:1212.040 2 (2012).
+6.	Cao, Zhe, et al. "Openpose: Realtime multi-person 2d pose estimation using part affinity fields." IEEE transactions on pattern analysis and machine intelligence 43.1 (2019): 172-186.
+7.	LeCun, Yann, et al. "Gradient-based learning applied to document recognition." Proceedings of the IEEE 86.11 (1998): 2278-2324.
+8.	Karpathy, Andrej, et al. "Large-scale video classification with convolutional neural networks." Proceedings of the IEEE conference on Computer Vision and Pattern Recognition. 2014.
+9.	Yue-Hei Ng, Joe, et al. "Beyond short snippets: Deep networks for video classification." Proceedings of the IEEE conference on computer vision and pattern recognition. 2015.
+10.	Ullah, Amin, et al. "Action recognition in video sequences using deep bi-directional LSTM with CNN features." IEEE access 6 (2017): 1155-1166.
+11.	Ullah, Amin, et al. "Activity recognition using temporal optical flow convolutional features and multilayer LSTM." IEEE Transactions on Industrial Electronics 66.12 (2018): 9692-9702.
+12.	Lin, Ji, Chuang Gan, and Song Han. "Tsm: Temporal shift module for efficient video understanding." Proceedings of the IEEE/CVF international conference on computer vision. 2019.
+13.	Yu, Fang. "Recognition method of whole-body rotation in alpine skiing based on long short time memory network." International Journal of Information and Communication Technology 23.1 (2023): 44-56.
+14.	Bao, Wenxia, et al. "Pose estimation and motion analysis of ski jumpers based on ECA-HRNet." Scientific Reports 13.1 (2023): 6132.
+15.	Qi, Jiashuo, et al. "Optically non-contact cross-country skiing action recognition based on key-point collaborative estimation and motion feature extraction." Sensors 23.7 (2023): 3639.
+16.	He, Kaiming, et al. "Deep residual learning for image recognition." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016.
+17.	Hochreiter, Sepp, and Jürgen Schmidhuber. "Long short-term memory." Neural computation 9.8 (1997): 1735-1780.
+18.	Zadeh, Shekoufeh Gorgi, and Matthias Schmid. "Bias in cross-entropy-based training of deep survival networks." IEEE transactions on pattern analysis and machine intelligence 43.9 (2020): 3126-3137.
+19.	Ho, Yaoshiang, and Samuel Wookey. "The real-world-weight cross-entropy loss function: Modeling the costs of mislabeling." IEEE access 8 (2019): 4806-4813.
+20.	Bai, Zhongxin, et al. "End-to-end speaker verification via curriculum bipartite ranking weighted binary cross-entropy." IEEE/ACM Transactions on Audio, Speech, and Language Processing 30 (2022): 1330-1344.
+21.	Patrona, Fotini, et al. "Motion analysis: Action detection, recognition and evaluation based on motion capture data." Pattern Recognition 76 (2018): 612-622.
+22.	Kavi, Rahul, et al. "Multiview fusion for activity recognition using deep neural networks." Journal of Electronic Imaging 25.4 (2016): 043010-043010.
+23.	Wang, Zheng, et al. "E-YOLO: Recognition of estrus cow based on improved YOLOv8n model." Expert Systems with Applications 238 (2024): 122212.
